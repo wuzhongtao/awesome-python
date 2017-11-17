@@ -240,6 +240,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
     * [pylama](https://github.com/klen/pylama) - Code audit tool for Python and JavaScript.
     * [Pylint](https://www.pylint.org/) - A Fully customizable source code analyzer.
+* Static Type Checker
+    * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
 
 ## Command-line Tools
 
@@ -908,6 +910,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [libffm](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
 * [LightFM](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 * [surprise](http://surpriselib.com) - A scikit for building and analyzing recommender systems.
+* [TensorRec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ## RESTful API
 
@@ -930,6 +933,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [restless](https://github.com/toastdriven/restless) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
     * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+    * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ## RPC Servers
 
@@ -1216,6 +1220,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [AutobahnPython](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
+* [django-channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 * [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django.
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
